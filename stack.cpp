@@ -37,7 +37,7 @@ public:
         return value;
     }
 
-     // IsEmpty operation: Check if the stack is empty
+    // IsEmpty operation: Check if the stack is empty
     bool isEmpty()
     {
         return top == NULL; // Return true if the top pointer is NULL, indicating an empty stack
@@ -118,13 +118,6 @@ int main()
     }
     return 0;
 }
-
-   
-
-
-
-
-
 
 
 
